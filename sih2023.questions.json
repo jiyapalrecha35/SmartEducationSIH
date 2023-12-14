@@ -1,0 +1,422 @@
+[
+  {
+    "examID": "1",
+    "questionID": "1",
+    "questionTitle": "Which country has been removed from UNGA Security Council Children and Armed Conflict Report?",
+    "options": [
+      "India",
+      "Indonesia",
+      "Sri Lanka",
+      "Afghanistan"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "1",
+    "questionID": "2",
+    "questionTitle": "How many medals were won by India in the ‘Special Olympics World Games 2023’?",
+    "options": [
+      "101",
+      "202",
+      "303",
+      "304"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "1",
+    "questionID": "3",
+    "questionTitle": "RBI has launched which type of Central Bank Digital Currency in its pilot phase?",
+    "options": [
+      "Retail",
+      "Whole-sale",
+      "Commodity",
+      "Crypto-currency"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "1",
+    "questionID": "4",
+    "questionTitle": "NITI Aayog signed a MoU with which institution on fast tracking SDGs?",
+    "options": [
+      "UNDP",
+      "UNEP",
+      "World Bank",
+      "WEF"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "1",
+    "questionID": "5",
+    "questionTitle": "Which company has signed an MoU with India Post to simplify cross-border logistics for MSME exporters?",
+    "options": [
+      "Amazon India",
+      "ShopClues",
+      "Flipkart",
+      "Etsy"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "2",
+    "questionID": "1",
+    "questionTitle": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+    "options": [
+      "200 m",
+      "225 m",
+      "245 m",
+      "250 m"
+    ],
+    "answer": 2
+  },
+  {
+    "examID": "2",
+    "questionID": "2",
+    "questionTitle": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+    "options": [
+      "1/5",
+      "2/5",
+      "8/15",
+      "9/20"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "2",
+    "questionID": "3",
+    "questionTitle": "A man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is:",
+    "options": [
+      "Rs. 12",
+      "Rs. 15",
+      "Rs. 18",
+      "Rs. 21"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "2",
+    "questionID": "4",
+    "questionTitle": "Find the odd one out:",
+    "options": [
+      "10",
+      "45",
+      "54",
+      "75"
+    ],
+    "answer": 2
+  },
+  {
+    "examID": "2",
+    "questionID": "5",
+    "questionTitle": "3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "3",
+    "questionID": "1",
+    "questionTitle": "Which is the national sport of the USA?",
+    "options": [
+      "Carfball",
+      "Volleyball",
+      "Handball",
+      "Baseball"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "3",
+    "questionID": "2",
+    "questionTitle": "In which year did India become the champion of the World Cup cricket for the first time?",
+    "options": [
+      "1981",
+      "1982",
+      "1983",
+      "1986"
+    ],
+    "answer": 2
+  },
+  {
+    "examID": "3",
+    "questionID": "3",
+    "questionTitle": "Who is the captain of the Indian football team?",
+    "options": [
+      "Sunil Chhetri",
+      "Sandesh Jhingan",
+      "Gurpreet Singh Sandhu",
+      "Pritam Kotal"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "3",
+    "questionID": "4",
+    "questionTitle": "In which Olympic event would you find athletes performing routines on bars, beams, and mats?",
+    "options": [
+      "Gymnastics",
+      "Swimming",
+      "Weightlifting",
+      "Cycling"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "3",
+    "questionID": "5",
+    "questionTitle": "Mithali Raj is a famous player in which sport?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Chess",
+      "Hockey"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "4",
+    "questionID": "1",
+    "questionTitle": "WWW stands for:",
+    "options": [
+      "World Worm Web",
+      "World Wide Web",
+      "World Word Web",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "4",
+    "questionID": "2",
+    "questionTitle": "________ is used to communicate from one city to another.",
+    "options": [
+      "WAN",
+      "MAN",
+      "LAN",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "4",
+    "questionID": "3",
+    "questionTitle": "The first search engine on the internet is",
+    "options": [
+      "Aliweb",
+      "Google",
+      "Bing",
+      "Yahoo"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "4",
+    "questionID": "4",
+    "questionTitle": "The first computer virus is known as",
+    "options": [
+      "Rabbit",
+      "Elk cloner",
+      "SCA virus",
+      "Creeper program"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "4",
+    "questionID": "5",
+    "questionTitle": "JPEG is an acronym for:",
+    "options": [
+      "Joint Photographic Experts Environmental Group",
+      "Joint Photographic Experimental Group",
+      "Joint Photographers Experts Group",
+      "Joint Philosophical Experts Group"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "6",
+    "questionID": "1",
+    "questionTitle": "What financial statement lists assets from current to long term?",
+    "options": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Retained Earnings"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "6",
+    "questionID": "2",
+    "questionTitle": "What balance sheet format is vertical?",
+    "options": [
+      "Standard",
+      "Report",
+      "Account",
+      "Inverted"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "6",
+    "questionID": "3",
+    "questionTitle": "Income statement format that separates the cost of goods sold into categories?",
+    "options": [
+      "Standard",
+      "Detailed",
+      "Expanded",
+      "Multi-step"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "6",
+    "questionID": "4",
+    "questionTitle": "Which is not a cash activity listed on the cash flow statement?",
+    "options": [
+      "Operating activities",
+      "Investing activities",
+      "Purchasing activities",
+      "Financing activities"
+    ],
+    "answer": 2
+  },
+  {
+    "examID": "6",
+    "questionID": "5",
+    "questionTitle": "Earnings per share show investors the ____ earned per outstanding share of stock.",
+    "options": [
+      "Operating Income",
+      "Income before taxes",
+      "Net Income",
+      "Income before interest and taxes"
+    ],
+    "answer": 2
+  },
+  {
+    "examID": "7",
+    "questionID": "1",
+    "questionTitle": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+    "options": [
+      "Oxygen",
+      "Hydrogen sulphide",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "7",
+    "questionID": "2",
+    "questionTitle": "Which of the following is a non-metal that remains liquid at room temperature?",
+    "options": [
+      "Phosphorous",
+      "Bromine",
+      "Chlorine",
+      "Helium"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "7",
+    "questionID": "3",
+    "questionTitle": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+    "options": [
+      "Copper",
+      "Magnesium",
+      "Iron",
+      "Calcium"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "7",
+    "questionID": "4",
+    "questionTitle": "Which of the following is used in pencils?",
+    "options": [
+      "Graphite",
+      "Silicon",
+      "Charcoal",
+      "Phosphorous"
+    ],
+    "answer": 0
+  },
+  {
+    "examID": "7",
+    "questionID": "5",
+    "questionTitle": "Which of the following metals forms an amalgam with other metals?",
+    "options": [
+      "Tin",
+      "Mercury",
+      "Lead",
+      "Zinc"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "5",
+    "questionID": "1",
+    "questionTitle": "What is a synonym for 'reverberate'?",
+    "options": [
+      "Calm",
+      "Recall",
+      "Dampen",
+      "Echo"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "5",
+    "questionID": "2",
+    "questionTitle": "What is a synonym for 'candor'?",
+    "options": [
+      "Guile",
+      "Dissimulation",
+      "Mendacity",
+      "Forthrightness"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "5",
+    "questionID": "3",
+    "questionTitle": "What is a synonym for 'zeal'?",
+    "options": [
+      "Pride",
+      "Fervor",
+      "Indolence",
+      "Lucidity"
+    ],
+    "answer": 1
+  },
+  {
+    "examID": "5",
+    "questionID": "4",
+    "questionTitle": "What is a synonym for 'emaciated'?",
+    "options": [
+      "Distressed",
+      "Rotten",
+      "Corrupt",
+      "Gaunt"
+    ],
+    "answer": 3
+  },
+  {
+    "examID": "5",
+    "questionID": "5",
+    "questionTitle": "What is a synonym for 'exhilarate'?",
+    "options": [
+      "Bore",
+      "Oppress",
+      "Pall",
+      "Thrill"
+    ],
+    "answer": 3
+  }
+]

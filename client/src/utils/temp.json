@@ -1,0 +1,39 @@
+[
+    {
+        "examID": "5",
+        "questionID": "1",
+        "questionTitle": "What is a synonym for 'reverberate'?",
+        "options": ["Calm", "Recall", "Dampen", "Echo"],
+        "answer": 3
+      },
+      {
+        "examID": "5",
+        "questionID": "2",
+        "questionTitle": "What is a synonym for 'candor'?",
+        "options": ["Guile", "Dissimulation", "Mendacity", "Forthrightness"],
+        "answer": 3
+      },
+      {
+        "examID": "5",
+        "questionID": "3",
+        "questionTitle": "What is a synonym for 'zeal'?",
+        "options": ["Pride", "Fervor", "Indolence", "Lucidity"],
+        "answer": 1
+      },
+      {
+        "examID": "5",
+        "questionID": "4",
+        "questionTitle": "What is a synonym for 'emaciated'?",
+        "options": ["Distressed", "Rotten", "Corrupt", "Gaunt"],
+        "answer": 3
+      },
+      {
+        "examID": "5",
+        "questionID": "5",
+        "questionTitle": "What is a synonym for 'exhilarate'?",
+        "options": ["Bore", "Oppress", "Pall", "Thrill"],
+        "answer":3
+    }
+    
+  ]
+  

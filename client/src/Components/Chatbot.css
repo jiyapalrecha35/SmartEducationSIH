@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    min-height: 100vh;
+    transition: background-color 0.5s ease;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatbot-container {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 800px;
+    text-align: center;
+    transition: background-color 0.5s ease;
+    animation: fadeIn 0.5s ease;
+    margin-top: 90px;
+}
+
+.header{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #00ffcc;
+    transition: color 0.3s ease;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.sectionTitle{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #00ffcc;
+    transition: color 0.3s ease;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input-container input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    background-color: #444;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.input-container button {
+    background: linear-gradient(45deg, #007bff, #00ffcc); 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+.input-container button:hover {
+    background: linear-gradient(45deg, #007bff, #00ffcc); 
+    color: #007bff; 
+}
+
+.response {
+    text-align: left;
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.channel-name {
+    font-weight: 600;
+    color: #00ffcc;
+    transition: color 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

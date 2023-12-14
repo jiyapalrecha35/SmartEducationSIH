@@ -1,0 +1,42 @@
+.homepage-container {
+    padding: 20px;
+    animation: fadeIn 0.5s ease;
+    color: white;
+}
+
+.homepage-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.left-content {
+    flex: 1;
+    text-align: left;
+    font-size: 24px;
+}
+
+.right-content {
+    flex: 1;
+    text-align: right;
+}
+
+.right-content img {
+    max-width: 100%;
+    height: auto;
+    padding-right: 0;
+    margin-right: 0;
+    
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,92 @@
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 5px;
+    background: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: #ccc;
+    transition: background-color 0.5s ease;
+    animation: fadeIn 0.5s ease;
+    margin-top: 80px;
+}
+
+.assessment-title {
+    margin-bottom: 35px;
+    text-align: center;
+    color: #00ffcc;
+    font-size: 30px;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: color 0.3s ease;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.label-text {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+.input-field,
+.select-field,
+.textarea-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #444;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+
+.submit-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.submit-button:hover {
+    background: linear-gradient(45deg, #0056b3, #00aaff);
+}
+
+.recommendations-title {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #00ffcc;
+}
+
+.recommendations-text {
+    white-space: pre-wrap;
+    color: #fff;
+}
+
+.recommendations {
+    margin-bottom: 30px;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

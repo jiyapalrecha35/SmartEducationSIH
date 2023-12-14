@@ -1,0 +1,56 @@
+/* Apply a black background to the entire component */
+.custom-container {
+    background-color: #000;
+    color: transparent; /* Make text transparent for gradient effect */
+    background-image: linear-gradient(to right, #0072ff, #00c6ff);
+    background-clip: text; /* Clip the gradient to text */
+    -webkit-background-clip: text; /* For Safari support */
+    font-size: 1.5rem; /* Adjust font size as needed */
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    
+  }
+  
+  /* Style the text within the component */
+  .custom-text {
+    font-size: 2rem; /* Adjust font size as needed */
+    text-align: center;
+    margin: 1rem 0;
+  }
+  
+  /* Style the QuestionCard or other components as needed */
+  .custom-card {
+    /* Add custom styling for your card component here */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style the button group */
+  .custom-button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+  }
+  
+  /* Style individual buttons */
+  .custom-button {
+    background-color: #0072ff;
+    color: #00c6ff;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .custom-button:hover {
+    background-color: #00c6ff;
+    color: #0072ff;
+  }
+  

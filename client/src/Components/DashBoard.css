@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.dashboard {
+    background-color: #111;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin-left: 44%;
+}
+
+.profile h2 {
+    font-size: 30px;
+    margin: 10px 0;
+    font-weight: bolder;
+}
+
+.profile p {
+    font-size: 16px;
+    margin-bottom: 30px;
+
+}
+
+.stats {
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+.stats h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.stats ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.stats li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.activity {
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.activity h3 {
+    margin-bottom: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+
+
+
+}
+
+
+.heatmap {
+    padding: 15px;
+    border-radius: 5px;
+    margin: 0 auto 20px; 
+    text-align: center;
+    max-width: 700px; 
+}
+
+.heatmap h3 {
+    font-size: 30px;
+    margin-bottom: 20px; 
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+
+.react-calendar-heatmap {
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+
+}
+
+.education {
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.education h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.progress {
+    background-color: #333;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.progress h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+}
+h4{
+    font-size: large;
+    font-weight: bold;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+        text-align: center;
+    }
+
+    to {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+.stats h3,
+.activity h3,
+.heatmap h3,
+.education h3,
+.progress h3,
+.profile h2 {
+    border-right: 2px solid white;
+    animation: typing 5s steps(20, end) forwards, blink-caret 0.75s step-end 4s infinite;
+}
+
+@keyframes blink-caret {
+
+    from,
+    to {
+        border-color: transparent;
+    }
+
+    50% {
+        border-color: white;
+    }
+}

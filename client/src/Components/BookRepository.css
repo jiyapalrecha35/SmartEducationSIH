@@ -1,0 +1,149 @@
+.book-repo-container {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 800px;
+    text-align: center;
+    transition: background 0.5s ease;
+    animation: fadeIn 0.5s ease;
+    margin-top: 90px;
+}
+
+.header {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #00ffcc;
+    transition: color 0.3s ease;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    background-color: #444;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.search-bar button {
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.search-bar button:hover {
+    background: linear-gradient(45deg, #00aaff, #55ffaa);
+    transform: scale(1.05);
+}
+
+.empty-query-message {
+    color: #fff;
+    font-size: 18px;
+    margin: 20px 0;
+    transition: color 0.3s ease;
+}
+
+.no-results-message {
+    color: #fff;
+    font-size: 18px;
+    margin: 20px 0;
+    transition: color 0.3s ease;
+}
+
+.book-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.book-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.book-item.selected {
+    background-color: #555;
+}
+
+.book-cover {
+    max-width: 100px;
+    margin-right: 10px;
+}
+
+.book-details {
+    flex: 1;
+    text-align: left;
+}
+
+.book-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #00ffcc;
+    transition: color 0.3s ease;
+    background: linear-gradient(45deg, #007bff, #00ffcc);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-bottom: 5px;
+}
+
+.book-author {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 5px;
+    transition: color 0.3s ease;
+}
+
+.book-published {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 5px;
+    transition: color 0.3s ease;
+}
+
+.book-preview-link {
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.book-preview-link:hover {
+    color: #00ffcc;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
